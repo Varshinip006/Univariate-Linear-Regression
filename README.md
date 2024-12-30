@@ -33,7 +33,7 @@ pyplot.plot(X,y_pred,color='blue')
 pyplot.show()
 ```
 ## Output
-![exp 9 maths](https://github.com/user-attachments/assets/03b73c6b-cbed-4b40-b3a1-5a59aedeb20d)
+![exp 9 maths](exp%209.maths.png)
 
 
 ## Result
